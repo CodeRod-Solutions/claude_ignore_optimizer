@@ -122,7 +122,7 @@ All v1.1.0 improvements plus file creation fix:
 - ✅ Analysis separate from file
 
 **Tested on:**
-- Switchi project (Next.js + Drizzle)
+- demo project (Next.js + Drizzle)
 - Multiple project types
 - All detection patterns working
 
