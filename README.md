@@ -229,9 +229,7 @@ MIT License - Free to use, modify, and share.
 
 Built and validated through real-world use across production projects.
 
-**Author:** [Your Name]
-
-Built with Claude Sonnet 4.5
+**Author:** Rod Morrison
 
 ---
 
