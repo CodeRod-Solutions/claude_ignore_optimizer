@@ -68,6 +68,21 @@ tree --version
 4. Upload the .skill file
 5. Done!
 
+---
+
+**⚠️ Note for MacOS Sequoia and Other Platforms:**
+
+If you cannot find the "Settings → Skills" menu in Claude Desktop or the "Profile → Skills" option in Claude Web:
+
+- **Check your Claude app version** - Skills feature availability may vary by version
+- **Look for alternative menu names** - The menu might be called "Extensions", "Integrations", or similar
+- **Consult Claude's official documentation** - Visit the Help menu or support.anthropic.com for the latest integration instructions
+- **Try the Help menu** - Look for "Skills" or "Custom Tools" documentation within the app
+
+We appreciate users reporting UI/documentation mismatches! If you encounter differences in your Claude app version or platform, please share your specific version and platform details so we can keep this documentation up-to-date for everyone.
+
+---
+
 ## Usage
 
 ### Step 1: Generate Project Structure
